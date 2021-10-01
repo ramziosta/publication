@@ -1,0 +1,58 @@
+
+.Podcast{
+    border: 3px solid red;
+    
+}
+    
+
+.c-player {
+    background-color: rgb(189, 188, 188);
+
+}
+
+.c-player > h4 {
+    color: green;
+}
+
+.c-player > p {
+    color:blue;
+}
+
+.c-player > p span {
+   color: white;
+}
+
+.c-player--details .details-img {
+    border-radius: 50%;
+}
+
+.c-player--details .details-img img {
+    border: 3px solid pink ;
+    left: 10px;
+}
+
+.c-player--details .details-img:after {
+   border: 3px solid greenyellow;
+}
+
+.c-player--details .details-title {
+   color: purple;
+}
+
+.c-player--details .details-artist {
+color:rgb(73, 101, 101);
+}
+
+.c-player--controls {
+    background-color: rgb(255, 190, 24);
+}
+
+.c-player--controls .play-btn {
+   
+    color: red;
+}
+
+.c-player--controls .skip-btn {
+ color: orange;
+
+}
