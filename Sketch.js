@@ -1,4 +1,4 @@
-const jj = "hello hello hello yes herald herald hacker hacker"
+const jj = "hello hello hello yes no herald herald hacker hacker"
   .toLowerCase()
   .replace(/[^a-zA-Z ]/g, "");
 console.log(jj);
