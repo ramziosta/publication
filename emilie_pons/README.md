@@ -9,6 +9,7 @@ The author : is the bio/resume with a sliding pictures as the user scroll
 The services: Languages, Teaching, Mentoring, Translation, Interviewing.
 Contact me Page.
 
+The app at this point has a navbar that is kinda responsive and a player that can connect to a weblink 
 The App is connected to MongoDB
 
  The repo contains a Mockup of the website in XD, font design in AI, color Palet 
@@ -22,6 +23,6 @@ The App is connected to MongoDB
 3- Also for Video and Youtube? Linked ?
 4- Articles and Posts? They are available on other websites. Should I use Cards to display a pic and a bit af info and link to an outside source?
 
-I am not sure if these approaches are personal preference or is there a best pracice apporach to setting thge app up?
+I am not sure if these approaches are personal preference or is there a best pracice apporach to setting the app up?
 
 
