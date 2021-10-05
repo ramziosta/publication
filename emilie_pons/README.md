@@ -16,7 +16,7 @@ The App is connected to MongoDB
 
 ######### Currently working on the podcast player... but stopped working on it...as I need to evaluate my work before moving forward
 
-##Questions:
+#########Questions:
 
 1- I'm working on this project to be a template. I am looking for best practice setup and structure for future projects.
 2- Should I link Podcasts from iTunes/Spotify or use DB to store them.
